@@ -1,7 +1,12 @@
 .HomePage {
+    .header-section{
+        height: 100px;
+        display: flex;
+    }
     .app-name {
         font-size: 3rem;
         margin: 30px auto;
+        align-items: center;
     }
     .team-grid {
         display: grid;
